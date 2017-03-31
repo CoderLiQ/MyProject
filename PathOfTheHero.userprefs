@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9A033EC4-46C4-4FC8-93B1-EF975FF95ECC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PathOfTheHero PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PathOfTheHero\Form1.cs">
+    <Files>
+      <File FileName="PathOfTheHero\Program.cs" Line="35" Column="12" />
+      <File FileName="PathOfTheHero\Form1.cs" Line="519" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

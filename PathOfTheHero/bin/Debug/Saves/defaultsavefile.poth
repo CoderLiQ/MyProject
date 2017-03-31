@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DataModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Games>
+    <Game>
+      <number>1</number>
+      <gameName>Новая игра</gameName>
+      <startDate>01 января 1989</startDate>
+      <finishDate>в процессе</finishDate>
+      <creatorName />
+      <releaseDate>2016-08-30T12:26:30.6205072+05:00</releaseDate>
+      <herocomment />
+      <inprogress>true</inprogress>
+      <GameID>0</GameID>
+    </Game>
+  </Games>
+</DataModel>
