@@ -1,2 +1,2 @@
-# MyProject
-этот проект создавался больше года назад
+# PathOfTheHero
+Game completion desktop app
